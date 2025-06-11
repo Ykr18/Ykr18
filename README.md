@@ -147,8 +147,49 @@
 </p>
 
 ---
-
 ## 🎯 Current Focus
+
+I'm currently working on two cutting-edge projects that combine machine learning, behavioral analysis, and automation:
+
+### 🖱️ **Project 1: Mouse Pattern Detection & User Behavior Analytics**
+Building an intelligent system that captures and analyzes user interaction patterns through mouse, trackpad, and stylus movements to determine active desktop usage and user authentication.
+
+**Key Features:**
+- **Real-time Pattern Capture:** Logging comprehensive mouse movement data including velocity, acceleration, click patterns, and gesture recognition
+- **Behavioral Biometrics:** Developing ML algorithms to create unique user fingerprints based on interaction patterns[2]
+- **Active Session Detection:** Distinguishing between active user engagement vs. idle/automated behavior
+- **Security Applications:** Implementing continuous authentication and bot detection capabilities[5]
+- **Cross-Platform Compatibility:** Supporting various input devices (mouse, trackpad, stylus, touch)
+
+**Technical Stack:** Python, Computer Vision, Behavioral Analysis, Pattern Recognition, Real-time Data Processing
+
+**Applications:** Cybersecurity, User Experience Analytics, Productivity Monitoring, Anti-fraud Systems
+
+---
+
+### 🤖 **Project 2: AI-Powered End-to-End Recruiting Platform**
+Developing a comprehensive AI recruiting system that automates the entire hiring pipeline from resume screening to candidate interviews, revolutionizing talent acquisition.
+
+**Core Components:**
+- **Intelligent Resume Parsing:** Advanced NLP models for extracting and analyzing candidate qualifications, skills, and experience
+- **Smart Candidate Matching:** AI algorithms that match job requirements with candidate profiles using semantic analysis
+- **Automated Interview Scheduling:** Dynamic scheduling system with calendar integration and timezone optimization
+- **AI Interview Conductor:** Natural language processing for conducting preliminary interviews and technical assessments[4]
+- **Bias Reduction Engine:** ML models designed to minimize unconscious bias in candidate evaluation
+- **Predictive Analytics:** Forecasting candidate success and cultural fit using historical hiring data
+
+**Technical Stack:** Natural Language Processing, Machine Learning, Conversational AI, Data Analytics, Cloud Computing
+
+**Impact:** Reducing time-to-hire by 70%, improving candidate quality, and enabling scalable recruitment for growing companies[4]
+
+---
+
+
+**🚀 Why These Projects Matter:**
+- **Innovation in Security:** Mouse pattern detection represents the next frontier in behavioral biometrics and continuous authentication
+- **HR Technology Revolution:** AI recruiting addresses the $240B global recruitment industry's need for efficiency and quality improvement
+- **Practical Impact:** Both projects solve real-world problems while advancing the field of applied machine learning
+
 
 ---
 ## 🌟 Let's Connect!
