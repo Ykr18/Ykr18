@@ -1,16 +1,180 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there! I'm Yatharth Kumar</h1>
 
-<!--
-**Ykr18/Ykr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+Student+%40+UMBC;Transforming+Data+into+Actionable+Insights;Building+ML+Models+That+Work+in+Production;Azure+Pipeline+%26+Cloud+Solutions+Expert" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  📍 <strong>Catonsville, MD</strong> | 
+  🎓 <strong>MS Data Science @ UMBC (GPA: 4.0)</strong> | 
+  🚀 <strong>Aspiring Data Scientist</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:y79@umbc.edu"><img src="https://img.shields.io/badge/Email-y79%40umbc.edu-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ykr18/"><img src="https://img.shields.io/badge/LinkedIn-ykr18-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="tel:+14438024041"><img src="https://img.shields.io/badge/Phone-%2B1--443--802--4041-green?style=for-the-badge&logo=phone&logoColor=white"/></a>
+</p>
+
+---
+
+## 🎯 About Me
+
+> *"Inventive, aspiring Data Scientist, skilled in transforming complex datasets into actionable insights"*
+
+- 🔬 **Transforming complex datasets** into actionable business insights
+- 🤖 **Building ML models** that work in production environments  
+- ⚙️ **Expert in automated Azure pipelines** and cloud solutions
+- 📊 **Creating interactive dashboards** that tell compelling data stories
+- 🎓 **Perfect 4.0 GPA** in Masters of Data Science program
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black"/>
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+<details>
+<summary><b>🚨 Baltimore Crime Data Analytics - Azure Pipeline Mastery</b></summary>
+<br>
+
+**📅 Nov 2024 - Dec 2024**
+
+- 📊 **Ingested 10 years of arrest data** from data.gov into Azure Blob Storage
+- ⚙️ **Built automated Azure pipelines** for seamless data processing  
+- 🏗️ **Designed 3NF database architecture** with optimized table mapping
+- 📈 **Created Power BI dashboards** to visualize crime hotspots across Baltimore
+
+**💡 Impact:** Transformed raw government data into actionable insights for public safety analysis
+
+**🛠️ Tech Stack:** Azure, SQL Server, Power BI, Python, Data Engineering
+
+</details>
+
+<details>
+<summary><b>🎵 Music Sentiment Analysis & Recommendation Engine</b></summary>
+<br>
+
+**📅 Oct 2024 - Nov 2024**
+
+- 🎼 **Analyzed 70 years of music trends** (1950-2019) correlating with real-world events
+- 🔧 **Preprocessed 28,900 tracks** using advanced web scraping techniques
+- 🤖 **Built KMeans clustering recommendation system** for personalized music discovery  
+- 📊 **Developed sentiment metrics** for artists and tracks using Python libraries
+
+**💡 Impact:** Created intelligent music recommendation system with historical context
+
+**🛠️ Tech Stack:** Python, BeautifulSoup, Regex, RESTful APIs, KMeans Clustering, Data Visualization
+
+</details>
+
+<details>
+<summary><b>👥 Employee Attrition Prediction - HR Analytics</b></summary>
+<br>
+
+**📅 Jun 2023 - Jul 2023**
+
+- 🎯 **Built KNN predictive model** achieving **87% accuracy**
+- 📈 **Conducted statistical analysis** supporting data-driven HR decisions
+- 🔍 **Performed feature engineering** and comprehensive model evaluation
+
+**💡 Impact:** Enabled proactive workforce management strategies
+
+**🛠️ Tech Stack:** Python, Scikit-learn, Statistical Analysis, Data Visualization
+
+</details>
+
+---
+
+## 📚 Education & Certifications
+
+### 🎓 Education
+- **University of Maryland, Baltimore County (UMBC)** | *Masters, Data Science* | **GPA: 4.0** | 2024-2026
+- **Lovely Professional University** | *Bachelor's, Computer Applications* | **GPA: 3.88** | 2019-2022
+
+### 🏅 Certifications
+- 📊 **Google Data Analytics Professional Certificate** (Coursera, 2023)
+- 📈 **R Programming, Johns Hopkins University** (Coursera, 2021)
+
+---
+
+## 💼 Professional Experience
+
+**🌐 Global Xperts Technology** | *Associate Network Engineer* | *Aug 2023 - Jun 2024*
+
+- 🔧 **Monitored Cisco voice collaboration systems** improving data observability
+- 📝 **Developed UCCX scripts** demonstrating data processing expertise  
+- 🎯 **Managed incident lifecycles** with customer sentiment analysis
+- 👨‍🏫 **Trained new interns** on networking and collaboration concepts
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ykr18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykr18&layout=compact&langs_count=7&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ykr18&theme=algolia" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+---
+## 🌟 Let's Connect!
+
+<p align="center">
+  <a href="mailto:y79@umbc.edu">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ykr18/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="tel:+14438024041">
+    <img src="https://img.shields.io/badge/Phone-Call_Me-green?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <i>💡 "Data is the new oil, but insights are the refined fuel that powers innovation!" 🚀</i>
+</p>
+
+<p align="center">
+  ⭐ <b>If you like my work, let's connect and create something impactful together!</b> ⭐
+</p>
