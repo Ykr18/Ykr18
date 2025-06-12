@@ -144,9 +144,9 @@ Building an intelligent system that captures and analyzes user interaction patte
 
 **Key Features:**
 - **Real-time Pattern Capture:** Logging comprehensive mouse movement data including velocity, acceleration, click patterns, and gesture recognition
-- **Behavioral Biometrics:** Developing ML algorithms to create unique user fingerprints based on interaction patterns[2]
+- **Behavioral Biometrics:** Developing ML algorithms to create unique user fingerprints based on interaction patterns
 - **Active Session Detection:** Distinguishing between active user engagement vs. idle/automated behavior
-- **Security Applications:** Implementing continuous authentication and bot detection capabilities[5]
+- **Security Applications:** Implementing continuous authentication and bot detection capabilities
 - **Cross-Platform Compatibility:** Supporting various input devices (mouse, trackpad, stylus, touch)
 
 **Technical Stack:** Python, Computer Vision, Behavioral Analysis, Pattern Recognition, Real-time Data Processing
@@ -162,13 +162,13 @@ Developing a comprehensive AI recruiting system that automates the entire hiring
 - **Intelligent Resume Parsing:** Advanced NLP models for extracting and analyzing candidate qualifications, skills, and experience
 - **Smart Candidate Matching:** AI algorithms that match job requirements with candidate profiles using semantic analysis
 - **Automated Interview Scheduling:** Dynamic scheduling system with calendar integration and timezone optimization
-- **AI Interview Conductor:** Natural language processing for conducting preliminary interviews and technical assessments[4]
+- **AI Interview Conductor:** Natural language processing for conducting preliminary interviews and technical assessments
 - **Bias Reduction Engine:** ML models designed to minimize unconscious bias in candidate evaluation
 - **Predictive Analytics:** Forecasting candidate success and cultural fit using historical hiring data
 
 **Technical Stack:** Natural Language Processing, Machine Learning, Conversational AI, Data Analytics, Cloud Computing
 
-**Impact:** Reducing time-to-hire by 70%, improving candidate quality, and enabling scalable recruitment for growing companies[4]
+**Impact:** Reducing time-to-hire by 70%, improving candidate quality, and enabling scalable recruitment for growing companies
 
 ---
 
