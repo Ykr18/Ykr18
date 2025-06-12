@@ -135,18 +135,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ykr18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykr18&layout=compact&langs_count=7&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ykr18&theme=algolia" alt="GitHub Streak"/>
-</p>
-
----
 ## 🎯 Current Focus
 
 I'm currently working on two cutting-edge projects that combine machine learning, behavioral analysis, and automation:
