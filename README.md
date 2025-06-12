@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hey there! I'm Yatharth Kumar</h1>
+<h1 align="center">Welcome to my domain👽 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+Student+%40+UMBC;Transforming+Data+into+Actionable+Insights;Building+ML+Models+That+Work+in+Production;Azure+Pipeline+%26+Cloud+Solutions+Expert" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%92%AF;Automating+the+boring+stuff+so+you+don't+have+to+%F0%9F%9A%80;Coffee+%2B+Code+%3D+Innovation+%E2%98%95%EF%B8%8F%2C+%F0%9F%92%BB;Solving+real-world+problems+with+AI+magic+%F0%9F%A7%AA;Always+learning%2C+always+building+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   📍 <strong>Catonsville, MD</strong> | 
