@@ -100,7 +100,7 @@
 
 **📅 Jun 2023 - Jul 2023**
 
-- 🎯 **Built KNN predictive model** achieving **87% accuracy**
+- 🎯 **Built KNN predictive model** achieving **87% recall**
 - 📈 **Conducted statistical analysis** supporting data-driven HR decisions
 - 🔍 **Performed feature engineering** and comprehensive model evaluation
 
